@@ -1,4 +1,3 @@
-
 import { Div, Button } from "./FeedbackOptions.styled";
 import PropTypes from 'prop-types';
 
